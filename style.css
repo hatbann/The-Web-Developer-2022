@@ -6,3 +6,13 @@ img {
   width: 30%;
   margin: calc(10% / 6);
 }
+
+nav {
+  text-transform: uppercase;
+  border-bottom: 2px solid rgb(190, 190, 190);
+  width: 30%;
+  margin-left: calc(10% / 6);
+  padding: 20px 0;
+  font-family: 'Raleway', sans-serif;
+  font-size: 1.3em;
+}
