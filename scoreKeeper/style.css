@@ -1,0 +1,53 @@
+h1 {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+
+#scoreBoard p {
+  margin: 0;
+}
+
+button {
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: inline-block;
+  margin: -2px;
+  width: 130px;
+  height: 30px;
+}
+
+#player1 {
+  background-color: #00cba8;
+}
+
+#player2 {
+  background-color: #318dd6;
+}
+
+#reset {
+  background-color: #ef3256;
+}
+
+.selectTarget h2 {
+  display: inline-block;
+  font-size: 20px;
+}
+
+select {
+  border-radius: 10px;
+  padding: 2px 5px;
+  margin-bottom: 15px;
+}
+
+.disabled {
+  opacity: 50%;
+}
+
+.winner {
+  color: red;
+}
+.loser {
+  color: green;
+}
